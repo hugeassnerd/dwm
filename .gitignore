@@ -2,3 +2,4 @@
 *.rej
 *.diff
 *.o
+config.h
